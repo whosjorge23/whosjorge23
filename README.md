@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Ionic.
 - 💬 Ask me about anything.
 - 📫 How to reach me: jorge_upa@msn.com.
-<!-- - 😄 Pronouns: -->
 - ⚡ Fun fact: How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem.
-
+<!-- - 😄 Pronouns: -->
