@@ -29,3 +29,6 @@ const giorgio = {
  funFact: "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
 }
 ```
+[![Twitter: whosjorge23](https://img.shields.io/twitter/follow/whosjorge23?style=social)](https://twitter.com/whosjorge23)
+[![Linkedin: whosjorge23](https://img.shields.io/badge/-whosjorge23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgio-maria-giannotta/)](https://www.linkedin.com/in/giorgio-maria-giannotta/)
+[![GitHub whosjorge23](https://img.shields.io/github/followers/whosjorge23?label=follow&style=social)](https://github.com/whosjorge23)
