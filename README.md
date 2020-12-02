@@ -1,4 +1,4 @@
-### Hi there 👋🏻👨🏻‍💻
+### Hi there, I'm Giorgio 👋🏻👨🏻‍💻
 
 <!--
 **whosjorge23/whosjorge23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +17,17 @@
 const giorgio = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Swift, PHP, Dart],
-  tools: [React, Flutter, Node, XCode, Ionic, Flutter],
+  tools: [React, Flutter, Node, XCode, Ionic, Flutter, AR-KIT],
   aboutMe: {
               job: "Co-Founder Softbay X",
               currentProject: "app for the University of Pretoria",
               mentor: "Angela Yu from London App Brewery",
               currentCountry: "Italy",
+              age: 29,
+              email: "jorge_upa@msn.com",
               learningNow: "Ionic & Phyton",
            },
- challenge: "Changing the World with coding",
+ challenge: "Changing the World with one string at a time",
  funFact: "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
 }
 ```
