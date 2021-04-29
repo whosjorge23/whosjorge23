@@ -16,8 +16,8 @@
 ```javascript
 const giorgio = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Swift, PHP, Dart],
-  tools: [React, Flutter, Node, XCode, Ionic, Flutter, AR-KIT],
+  code: [Javascript, Typescript, HTML, CSS, Swift, PHP, Dart, Python],
+  tools: [React, Flutter, Node, XCode, Ionic, Flutter, ARKIT, CORE ML],
   aboutMe: {
               job: "Co-Founder Softbay X",
               currentProject: "app for the University of Pretoria",
