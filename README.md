@@ -16,7 +16,7 @@
 ```javascript
 const giorgio = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Swift, PHP, Dart, Python],
+  code: [Javascript, Typescript, HTML, CSS, Swift, Dart, Python],
   tools: [React, Flutter, Node, XCode, Ionic, Flutter, ARKIT, CORE ML],
   aboutMe: {
               job: "Co-Founder Softbay X",
@@ -25,7 +25,7 @@ const giorgio = {
               currentCountry: "Italy",
               age: 30,
               email: "jorge_upa@msn.com",
-              learningNow: "Ionic & Phyton",
+              learningNow: "Ionic & R",
            },
  challenge: "Changing the World with one string at a time",
  funFact: "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
