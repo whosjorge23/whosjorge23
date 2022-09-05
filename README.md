@@ -23,7 +23,7 @@ const giorgio = {
               currentProject: "app for the University of Pretoria",
               mentor: "Angela Yu from London App Brewery",
               currentCountry: "Italy",
-              age: 30,
+              age: 31,
               email: "jorge_upa@msn.com",
               learningNow: "Java & C#",
            },
