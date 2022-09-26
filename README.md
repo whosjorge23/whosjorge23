@@ -21,7 +21,7 @@ const giorgio = {
   tools: [React, Flutter, Node, XCode, Ionic, Flutter, ARKIT, CORE ML, SpringBoot],
   aboutMe: {
               job: "Co-Founder Softbay X",
-              currentProject: "app for the University of Pretoria",
+              currentProject: "It's a secret...",
               mentor: "Angela Yu from London App Brewery",
               currentCountry: "Italy",
               age: 31,
@@ -33,7 +33,20 @@ const giorgio = {
 }
 ```
 
-[![Twitter: whosjorge23](https://img.shields.io/twitter/follow/whosjorge23?style=social)](https://twitter.com/whosjorge23)
-[![Linkedin: whosjorge23](https://img.shields.io/badge/-whosjorge23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgio-maria-giannotta/)](https://www.linkedin.com/in/giorgio-maria-giannotta/)
-[![GitHub whosjorge23](https://img.shields.io/github/followers/whosjorge23?label=follow&style=social)](https://github.com/whosjorge23)
+#### 🛰 Socials
+[![Twitter: whosjorge23](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/whosjorge23)
+[![Instagram: whosjorge23](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whosjorge23)
+[![Linkedin: whosjorge23](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-maria-giannotta/)
+[![GitHub whosjorge23](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whosjorge23)
+
+#### 🦠 OS
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### 🛠 IDE
+![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
