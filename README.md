@@ -1,5 +1,7 @@
 ### Hi there, I'm Giorgio 👋🏻👨🏻‍💻
-![](https://komarev.com/ghpvc/?username=whosjorge23&style=for-the-badge&color=0088cc)
+<!-- ![](https://komarev.com/ghpvc/?username=whosjorge23&style=for-the-badge&color=0088cc) -->
+
+![Whosjorge23's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight)
 
 <!--
 **whosjorge23/whosjorge23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +34,6 @@ const giorgio = {
  funFact: "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
 }
 ```
-
 #### ☕ LANGUAGES
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
