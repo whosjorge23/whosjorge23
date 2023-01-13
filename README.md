@@ -1,8 +1,10 @@
 ### Hi there, I'm Giorgio 👋🏻👨🏻‍💻
 <!-- ![](https://komarev.com/ghpvc/?username=whosjorge23&style=for-the-badge&color=0088cc) -->
 
-![Whosjorge23's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosjorge23&layout=compact&theme=tokyonight)
+<!-- ![Whosjorge23's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight) -->
+![Whosjorge23's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosjorge23&layout=compact&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whosjorge23&theme=tokyonight&layout=compact)
 
 <!--
 **whosjorge23/whosjorge23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
