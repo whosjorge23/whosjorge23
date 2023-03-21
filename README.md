@@ -2,9 +2,10 @@
 <!-- ![](https://komarev.com/ghpvc/?username=whosjorge23&style=for-the-badge&color=0088cc) -->
 
 <!-- ![Whosjorge23's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight) -->
-![Whosjorge23's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight)
+![Whosjorge23's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight) <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whosjorge23&theme=tokyonight" />
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosjorge23&layout=compact&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whosjorge23&theme=tokyonight&layout=compact)
+
 
 <!--
 **whosjorge23/whosjorge23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +39,9 @@ const giorgio = {
  funFact: "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
 }
 ```
+#### 👨🏻‍💻 LAPTOPS & PHONES
+<img src="https://img.shields.io/badge/Apple_MacBook_14'_Pro_2022-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone14_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Lenovo_ThinkBook_14_G2-DF1515?style=for-the-badge&logo=lenovo&logoColor=white"/> <img src="https://img.shields.io/badge/SAMSUNG_A22_5G-0D597F?style=for-the-badge&logo=samsung&logoColor=white"/> 
+
 #### 🕊️ LANGUAGES
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
