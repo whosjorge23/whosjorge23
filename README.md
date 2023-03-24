@@ -43,7 +43,7 @@ const giorgio = {
 <img src="https://img.shields.io/badge/Apple_MacBook_14'_Pro_2022-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone14_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Lenovo_ThinkBook_14_G2-DF1515?style=for-the-badge&logo=lenovo&logoColor=white"/> <img src="https://img.shields.io/badge/SAMSUNG_A22_5G-0D597F?style=for-the-badge&logo=samsung&logoColor=white"/> 
 
 #### 🕊️ LANGUAGES
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
