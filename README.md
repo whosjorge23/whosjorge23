@@ -76,3 +76,4 @@ const giorgio = {
 [![Instagram: whosjorge23](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whosjorge23)
 [![Linkedin: whosjorge23](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-maria-giannotta/)
 [![GitHub whosjorge23](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whosjorge23)
+
