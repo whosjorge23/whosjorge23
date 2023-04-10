@@ -54,6 +54,7 @@ const giorgio = {
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)](https://ionicframework.com/)
+[![Vapor](https://img.shields.io/badge/Vapor-e981f8?style=for-the-badge&logo=vapor&logoColor=80D8FD)](https://docs.vapor.codes/)
 
 #### 🛠 IDE
 [![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://apps.apple.com/en/app/xcode/id497799835?mt=12)
