@@ -24,7 +24,8 @@
 const giorgio = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Swift, Dart, Python, Java, R],
-  tools: [React, Flutter, Node, XCode, Ionic, Flutter, ARKIT, CORE ML, SpringBoot],
+  framework: [React, Flutter, Node, Ionic, Flutter, ARKIT, CORE ML, SpringBoot],
+  tools: [XCode, VSCode, IntelliJ],
   aboutMe: {
               job: "Co-Founder Softbay X, Flutter & React Developer at Pixora",
               currentProject: "It's a secret...",
@@ -33,7 +34,7 @@ const giorgio = {
               currentCountry: "Italy",
               age: 31,
               email: "jorge_upa@msn.com",
-              learningNow: "Java & C#",
+              learningNow: "Vapor a Swift server-side framework",
            },
  challenge: "Changing the World with one string at a time",
  funFact: "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
