@@ -2,7 +2,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=whosjorge23&style=for-the-badge&color=0088cc) -->
 
 <!-- ![Whosjorge23's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight) -->
-![Whosjorge23's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight) 
+![Whosjorge23's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whosjorge23&show_icons=true&&count_private=true&theme=tokyonight) 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosjorge23&layout=compact&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whosjorge23&theme=tokyonight&layout=compact) <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whosjorge23&theme=tokyonight" />
 
