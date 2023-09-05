@@ -32,7 +32,7 @@ const giorgio = {
               mentor: "Angela Yu from London App Brewery",
               university: "The Bachelor of Science in Computer Science (BS-CS) at UoPeople - (Currently)",
               currentCountry: "Italy",
-              age: 31,
+              age: 32,
               email: "jorge_upa@msn.com",
               learningNow: "Vapor a Swift server-side framework",
            },
