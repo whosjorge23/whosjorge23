@@ -41,7 +41,7 @@ const giorgio = {
 }
 ```
 #### 👨🏻‍💻 LAPTOPS & PHONES
-<img src="https://img.shields.io/badge/Apple_MacBook_14'_Pro_2022-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone14_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Lenovo_ThinkBook_14_G2-DF1515?style=for-the-badge&logo=lenovo&logoColor=white"/> <img src="https://img.shields.io/badge/SAMSUNG_A22_5G-0D597F?style=for-the-badge&logo=samsung&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Apple_MacBook_Pro_14'_M1_Pro_2022-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone_14_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_MacBook_Pro_16'_M2_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone_XR-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
 #### 🕊️ LANGUAGES
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
