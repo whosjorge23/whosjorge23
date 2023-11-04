@@ -24,12 +24,12 @@
 const giorgio = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Swift, Dart, Python, Java, R],
-  framework: [React, Flutter, Node, Ionic, Flutter, ARKIT, CORE ML, SpringBoot],
+  framework: [React, Flutter, Node, Ionic, Flutter, ARKIT, CORE ML, SpringBoot, Vapor, Flame],
   tools: [XCode, VSCode, IntelliJ],
   aboutMe: {
-              job: "Co-Founder Softbay X, Flutter & React Developer at Pixora",
-              currentProject: "It's a secret...",
-              mentor: "Angela Yu from London App Brewery",
+              job: "Co-Founder Softbay X, Mobile Developer at Mashfrog Group",
+              currentProject: "A Flame Game",
+              mentor: "Federico Rossi from Mashfrog Group",
               university: "The Bachelor of Science in Computer Science (BS-CS) at UoPeople - (Currently)",
               currentCountry: "Italy",
               age: 32,
