@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Swift and Javascript.
 - 🤔 I’m looking for help with Ionic.
 - 💬 Ask me about anything.
-- 📫 How to reach me: jorge_upa@msn.com.
+- 📫 How to reach me: g.giannotta@aol.com.
 - ⚡ Fun fact: How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem.
 - 😄 Pronouns: ...
 -->
