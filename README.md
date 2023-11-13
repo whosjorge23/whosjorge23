@@ -33,7 +33,7 @@ const giorgio = {
               university: "The Bachelor of Science in Computer Science (BS-CS) at UoPeople - (Currently)",
               currentCountry: "Italy",
               age: 32,
-              email: "jorge_upa@msn.com",
+              email: "g.giannotta@aol.com",
               learningNow: "Vapor a Swift server-side framework",
            },
  challenge: "Changing the World with one string at a time",
