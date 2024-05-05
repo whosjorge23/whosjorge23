@@ -30,22 +30,24 @@ Currently, I'm navigating the exciting waters of game development with Flame, a 
 
 ```javascript
 const giorgio = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Swift", "Dart", "Python", "Java", "R"],
-  framework: ["React", "Flutter", "Node", "Ionic", "Flutter", "ARKIT", "CORE ML", "SpringBoot", "Vapor", "Flame"],
-  tools: ["XCode", "VSCode", "IntelliJ"],
-  aboutMe: {
-              job: "Co-Founder Softbay X, Mobile Developer at Mashfrog Group",
-              currentProject: "A Flame Game",
-              mentor: "Federico Rossi from Mashfrog Group",
-              university: "The Bachelor of Science in Computer Science (BS-CS) at UoPeople - (Currently)",
-              currentCountry: "Italy",
-              age: 32,
-              email: "g.giannotta@aol.com",
-              learningNow: "Vapor a Swift server-side framework",
-           },
- challenge: "Changing the World with one string at a time",
- funFact: "How many programmers does it take to screw in a light bulb? ... None. It's a hardware problem."
+  pronouns: "he/him",
+  skills: {
+    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Swift", "Dart", "Python", "Java", "R"],
+    frameworks: ["React", "Flutter", "Node.js", "Ionic", "ARKit", "Core ML", "Spring Boot", "Vapor", "Flame"],
+    tools: ["XCode", "Android Studio", "VSCode", "IntelliJ"]
+  },
+  bio: {
+    role: "Co-Founder @ Softbay X | Mobile Developer @ Mashfrog Group",
+    currentFocus: "Crafting pixels into play with a game built on Flame",
+    mentor: "Federico Rossi, Mobile Guru @ Mashfrog Group",
+    education: "Pursuing a BS in Computer Science @ UoPeople",
+    locale: "Italy",
+    age: 33,
+    contact: "g.giannotta@aol.com",
+    learning: "Exploring the depths of Vapor, a Swift-based server-side titan"
+  },
+  mission: "Rewriting the code of life, one string at a time",
+  funFact: "Why don't programmers like nature? It has too many bugs."
 }
 ```
 #### 👨🏻‍💻 LAPTOPS & PHONES
