@@ -10,10 +10,13 @@ Currently, I'm navigating the exciting waters of game development with Flame, a 
 <!-- ![](https://komarev.com/ghpvc/?username=whosjorge23&style=for-the-badge&color=0088cc) -->
 
 <!-- ![Whosjorge23's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosjorge23&show_icons=true&theme=tokyonight) -->
-![Whosjorge23's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whosjorge23&show_icons=true&&count_private=true&theme=tokyonight) 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosjorge23&layout=compact&theme=tokyonight) -->
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whosjorge23&theme=tokyonight&layout=compact) <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whosjorge23&theme=tokyonight" />
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosjorge23&layout=compact&theme=tokyonight) -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=whosjorge23&theme=dracula&title=MultiLanguage,Repositories,Commits,PullRequest,Experience,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Whosjorge23's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=whosjorge23&show_icons=true&&count_private=true&theme=tokyonight) <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whosjorge23&theme=tokyonight" />
 
 <!--
 **whosjorge23/whosjorge23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,3 +73,7 @@ const giorgio = {
 
 #### 🛰 SOCIALS
 [![Website whosjorge23](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://westcostyle.com) [![Twitter: whosjorge23](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/whosjorge23) [![Instagram: whosjorge23](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whosjorge23) [![Linkedin: whosjorge23](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-maria-giannotta/) [![GitHub whosjorge23](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whosjorge23)
+
+
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whosjorge23&theme=tokyonight&layout=compact) -->
+
