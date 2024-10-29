@@ -1,5 +1,5 @@
 
-<details>
+<details open>
  <summary><h3>Hi there, I'm Giorgio 👋🏻👨🏻‍💻</h3></summary>
 Welcome to my digital diary where I share my transformative journey in the tech world! 🌟 Five years ago, I took the bold leap to switch careers, diving headfirst into the ever-evolving ocean of coding. It all began with the basics - HTML and CSS - the building blocks of the web. But as I explored deeper, I discovered a fiery passion for mobile development, particularly in the realms of iOS and Flutter.
 
@@ -54,7 +54,7 @@ const giorgio = {
 }
 ```
 #### 👨🏻‍💻 LAPTOPS & PHONES
-<img src="https://img.shields.io/badge/Apple_MacBook_Pro_14'_M1_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone_14_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_MacBook_Pro_16'_M2-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone_XR-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple_MacBook_Pro_14'_M1_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone_14_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_MacBook_Pro_16'_M2_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Apple_iPhone_XR-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
 #### 🕊️ LANGUAGES
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
