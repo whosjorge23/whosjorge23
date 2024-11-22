@@ -1,7 +1,7 @@
 
 <details open>
  <summary><h3>Hi there, I'm Giorgio 👋🏻👨🏻‍💻</h3></summary>
-Welcome to my digital diary where I share my transformative journey in the tech world! 🌟 Five years ago, I took the bold leap to switch careers, diving headfirst into the ever-evolving ocean of coding. It all began with the basics - HTML and CSS - the building blocks of the web. But as I explored deeper, I discovered a fiery passion for mobile development, particularly in the realms of iOS and Flutter.
+Welcome to my digital diary where I share my transformative journey in the tech world! 🌟 In 2019 years ago, I took the bold leap to switch careers, diving headfirst into the ever-evolving ocean of coding. It all began with the basics - HTML and CSS - the building blocks of the web. But as I explored deeper, I discovered a fiery passion for mobile development, particularly in the realms of iOS and Flutter.
 
 My path in coding is more than a profession; it's a daily adventure filled with creativity and endless possibilities. Each day is a new canvas, and I'm the artist sketching out innovative app ideas that pop into my mind. 🚀📱
 
