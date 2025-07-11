@@ -45,7 +45,7 @@ const giorgio = {
     mentor: "Federico Rossi, Mobile Guru @ Mashfrog Group",
     education: "Pursuing a BS in Computer Science @ UoPeople",
     locale: "Italy",
-    age: 33,
+    age: 34,
     contact: "g.giannotta@aol.com",
     learning: "Exploring the depths of Vapor, a Swift-based server-side titan"
   },
